@@ -78,6 +78,6 @@ Remember: technology should be used to empower and inspire, not to harm or decei
 ---
 
 **All rights reserved to the original creator and his companies.**
-**CEO – Mateus Douglas | Sentientes Robotics & Evolvion Robotics**
+**CEO – Mateus Douglas | Sentientis Robotics & Evolvion Robotics**
 **License: Creative Commons BY-NC-ND 4.0 International**
 **Contact for authorization or collaboration: [Teusdouglass@hotmail.com | +55 11 98972-6172]**
